@@ -7,7 +7,7 @@ Premium autoscript installer used to install SSH, STUNNEL, OVPN, and SQUID PROXY
 
 - Debian 9 x64 & x32
 
-apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/AutoScriptDebian9/main/Debian9 && chmod +x Debian9 && ./Debian9 && rm -f Debian9 && history -c
+apt-get -y install wget && wget https://raw.githubusercontent.com/flashkidd/AutoScriptDebian9/main/Debian9 && chmod +x Debian9 && ./Debian9 && rm -f Debian9 && history -c
 
 
 ### Important Information:
@@ -24,7 +24,7 @@ apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/Auto
 
 - Openvpn Monitor - http://VPSIP:89/
 
-- OVPN Config - http://VPSIP:85/Dopekid.ovpn | http://VPSIP:85/DopekidVPN.tar.gz or http://VPSIP:85/Dopekid.tar.gz
+- OVPN Config - http://VPSIP:85/Flashkidd.ovpn | http://VPSIP:85/DopekidVPN.tar.gz or http://VPSIP:85/Dopekid.tar.gz
 
 
 ### Service and Port Informations:
@@ -59,4 +59,4 @@ apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/Auto
 
 ### Script By:
 
-https://www.facebook.com/joash.singh.90
+https://www.facebook.com/Flashkiddvpn
